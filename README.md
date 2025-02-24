@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @salahzaouidz
-- 👀 I’m interested in web/app Dev
+- 👀 I’m Flutter App Developer
 - 🌱 I’m currently learning AI computer science
 
 
